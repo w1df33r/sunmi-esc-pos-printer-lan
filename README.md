@@ -1,4 +1,4 @@
-# Sunmi ESC/POS Printer Utility Library
+# Sunmi ESC/POS Printer Utility Library for cloud printer (LAN/Front-end version)
 
 This repository contains a utility library for Sunmi cloud printers. It allows you to invoke printer functions over a local network using the available LAN API from Sunmi.
 This library was created to address specific requirements for a project I worked on involving Sunmi ESC/POS printers. It may not be universally applicable to all projects.
